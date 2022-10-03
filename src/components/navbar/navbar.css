@@ -1,0 +1,58 @@
+.gpt3_navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    padding-bottom: rem;
+}
+
+.gpt3_navbar-links {
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gpt3_navbar-icon {
+    padding-left: 2rem;
+    padding-top: 0.2rem;
+}
+
+.gpt3_navbar-links_logo {
+    position: absolute;
+    padding-left: 7rem;
+}
+
+.gpt3_navbar-links_logo img {
+    width: 300px;
+    height: 88px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 60rem;
+}
+
+.linkedin {
+    padding-left:1rem;
+}
+
+.twitter {
+    padding-left: 1rem;
+}
+
+.instagram {
+    padding-left: 1rem;
+}
+
+.facebook {
+    padding-left: 1rem;
+}
+
+.discord {
+    padding-left: 1rem;
+}
